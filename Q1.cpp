@@ -49,7 +49,9 @@ int main(){
 	cout << "                   (3) exit" << endl;
 
 
-	complex userComplex;
-	userComplex.input();
+	complex userComplex1;
+	complex userComplex2;
+	userComplex1.input();
+	userComplex2.input();
 	return 0;
 }
